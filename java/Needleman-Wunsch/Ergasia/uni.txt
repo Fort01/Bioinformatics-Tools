@@ -1,0 +1,402 @@
+ID   GABR1_RAT               Reviewed;         991 AA.
+AC   Q9Z0U4; O08620; O08621; Q9Z0F9; Q9Z308;
+DT   11-JAN-2001, integrated into UniProtKB/Swiss-Prot.
+DT   01-MAY-1999, sequence version 1.
+DT   11-MAY-2016, entry version 148.
+DE   RecName: Full=Gamma-aminobutyric acid type B receptor subunit 1;
+DE            Short=GABA-B receptor 1;
+DE            Short=GABA-B-R1;
+DE            Short=GABA-BR1;
+DE            Short=GABABR1;
+DE            Short=Gb1;
+DE   Flags: Precursor;
+GN   Name=Gabbr1;
+OS   Rattus norvegicus (Rat).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Glires; Rodentia; Sciurognathi;
+OC   Muroidea; Muridae; Murinae; Rattus.
+OX   NCBI_TaxID=10116;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 1A AND 1B), FUNCTION, SUBCELLULAR
+RP   LOCATION, AND TISSUE SPECIFICITY.
+RC   STRAIN=RICO; TISSUE=Brain cortex, and Cerebellum;
+RX   PubMed=9069281; DOI=10.1038/386239a0;
+RA   Kaupmann K., Huggel K., Heid J., Flor P.J., Bischoff S., Mickel S.J.,
+RA   McMaster G., Angst C., Bittiger H., Froestl W., Bettler B.;
+RT   "Expression cloning of GABA(B) receptors uncovers similarity to
+RT   metabotropic glutamate receptors.";
+RL   Nature 386:239-246(1997).
+RN   [2]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORMS 1C AND 1D), AND TISSUE
+RP   SPECIFICITY.
+RC   TISSUE=Cerebellum;
+RX   PubMed=9875211; DOI=10.1006/bbrc.1998.9706;
+RA   Isomoto S., Kaibara M., Sakurai-Yamashita Y., Nagayama Y., Uezono Y.,
+RA   Yano K., Taniyama K.;
+RT   "Cloning and tissue distribution of novel splice variants of the rat
+RT   GABAB receptor.";
+RL   Biochem. Biophys. Res. Commun. 253:10-15(1998).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA], AND ALTERNATIVE SPLICING (ISOFORM
+RP   1E).
+RC   STRAIN=Wistar; TISSUE=Hippocampus;
+RX   PubMed=10457184; DOI=10.1046/j.1460-9568.1999.00704.x;
+RA   Pfaff T., Malitschek B., Kaupmann K., Prezeau L., Pin J.-P.,
+RA   Bettler B., Karschin A.;
+RT   "Alternative splicing generates a novel isoform of the rat
+RT   metabotropic GABA(B)R1 receptor.";
+RL   Eur. J. Neurosci. 11:2874-2882(1999).
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [MRNA] (ISOFORM 1A), AND INTERACTION WITH GABBR2.
+RC   TISSUE=Brain;
+RX   PubMed=10075644; DOI=10.1074/jbc.274.12.7607;
+RA   Ng G.Y.K., Clark J., Coulombe N., Ethier N., Hebert T.E., Sullivan R.,
+RA   Kargman S., Chateauneuf A., Tsukamoto N., McDonald T., Whiting P.,
+RA   Mezey E., Johnson M.P., Liu Q., Kolakowski L.F. Jr., Evans J.F.,
+RA   Bonner T.I., O'Neill G.P.;
+RT   "Identification of a GABAB receptor subunit, gb2, required for
+RT   functional GABAB receptor activity.";
+RL   J. Biol. Chem. 274:7607-7610(1999).
+RN   [5]
+RP   TISSUE SPECIFICITY.
+RX   PubMed=10658574; DOI=10.1016/S0968-0896(99)00214-X;
+RA   Belley M., Sullivan R., Reeves A., Evans J.F., O'Neill G.P.,
+RA   Ng G.Y.K.;
+RT   "Synthesis of the nanomolar photoaffinity GABA(B) receptor ligand CGP
+RT   71872 reveals diversity in the tissue distribution of GABA(B) receptor
+RT   forms.";
+RL   Bioorg. Med. Chem. 7:2697-2704(1999).
+RN   [6]
+RP   INTERACTION WITH GABBR2.
+RX   PubMed=9872744; DOI=10.1126/science.283.5398.74;
+RA   Kuner R., Koehr G., Gruenewald S., Eisenhardt G., Bach A.,
+RA   Kornau H.-C.;
+RT   "Role of heteromer formation in GABAB receptor function.";
+RL   Science 283:74-77(1999).
+RN   [7]
+RP   INTERACTION WITH ATF4, AND SUBCELLULAR LOCATION.
+RX   PubMed=10924501; DOI=10.1074/jbc.M002727200;
+RA   Nehring R.B., Horikawa H.P.M., El Far O., Kneussel M.,
+RA   Brandstatter J.H., Stamm S., Wischmeyer E., Betz H., Karschin A.;
+RT   "The metabotropic GABAB receptor directly interacts with the
+RT   activating transcription factor 4.";
+RL   J. Biol. Chem. 275:35185-35191(2000).
+RN   [8]
+RP   MUTAGENESIS OF SER-247; SER-268 AND SER-269.
+RX   PubMed=10692480;
+RA   Galvez T., Urwyler S., Prezeau L., Mosbacher J., Joly C.,
+RA   Malitschek B., Heid J., Brabet I., Froestl W., Bettler B.,
+RA   Kaupmann K., Pin J.-P.;
+RT   "Ca(2+) requirement for high-affinity gamma-aminobutyric acid (GABA)
+RT   binding at GABA(B) receptors: involvement of serine 269 of the
+RT   GABA(B)R1 subunit.";
+RL   Mol. Pharmacol. 57:419-426(2000).
+RN   [9]
+RP   INTERACTION WITH JAKMIP1.
+RX   PubMed=14718537; DOI=10.1074/jbc.M311737200;
+RA   Couve A., Restituito S., Brandon J.M., Charles K.J., Bawagan H.,
+RA   Freeman K.B., Pangalos M.N., Calver A.R., Moss S.J.;
+RT   "Marlin-1, a novel RNA-binding protein associates with GABA
+RT   receptors.";
+RL   J. Biol. Chem. 279:13934-13943(2004).
+RN   [10]
+RP   PHOSPHORYLATION [LARGE SCALE ANALYSIS] AT THR-960, AND IDENTIFICATION
+RP   BY MASS SPECTROMETRY [LARGE SCALE ANALYSIS].
+RX   PubMed=22673903; DOI=10.1038/ncomms1871;
+RA   Lundby A., Secher A., Lage K., Nordsborg N.B., Dmytriyev A.,
+RA   Lundby C., Olsen J.V.;
+RT   "Quantitative maps of protein phosphorylation sites across 14
+RT   different rat organs and tissues.";
+RL   Nat. Commun. 3:876-876(2012).
+RN   [11]
+RP   STRUCTURE BY NMR OF 96-159, AND DISULFIDE BONDS.
+RX   PubMed=15304491; DOI=10.1074/jbc.M406540200;
+RA   Blein S., Ginham R., Uhrin D., Smith B.O., Soares D.C., Veltel S.,
+RA   McIlhinney R.A., White J.H., Barlow P.N.;
+RT   "Structural analysis of the complement control protein (CCP) modules
+RT   of GABA(B) receptor 1a: only one of the two CCP modules is compactly
+RT   folded.";
+RL   J. Biol. Chem. 279:48292-48306(2004).
+CC   -!- FUNCTION: Component of a heterodimeric G-protein coupled receptor
+CC       for GABA, formed by GABBR1 and GABBR2. Within the heterodimeric
+CC       GABA receptor, only GABBR1 seems to bind agonists, while GABBR2
+CC       mediates coupling to G proteins. Ligand binding causes a
+CC       conformation change that triggers signaling via guanine
+CC       nucleotide-binding proteins (G proteins) and modulates the
+CC       activity of down-stream effectors, such as adenylate cyclase.
+CC       Signaling inhibits adenylate cyclase, stimulates phospholipase A2,
+CC       activates potassium channels, inactivates voltage-dependent
+CC       calcium-channels and modulates inositol phospholipid hydrolysis.
+CC       Calcium is required for high affinity binding to GABA. Plays a
+CC       critical role in the fine-tuning of inhibitory synaptic
+CC       transmission. Pre-synaptic GABA receptor inhibits neurotransmitter
+CC       release by down-regulating high-voltage activated calcium
+CC       channels, whereas postsynaptic GABA receptor decreases neuronal
+CC       excitability by activating a prominent inwardly rectifying
+CC       potassium (Kir) conductance that underlies the late inhibitory
+CC       postsynaptic potentials. Not only implicated in synaptic
+CC       inhibition but also in hippocampal long-term potentiation, slow
+CC       wave sleep, muscle relaxation and antinociception.
+CC       {ECO:0000269|PubMed:9069281}.
+CC   -!- SUBUNIT: Heterodimer of GABBR1 and GABBR2. Homodimers may form,
+CC       but are inactive. Interacts with the leucine zipper of the C-
+CC       terminal bZIP domain of ATF4 via its C-terminal region. Interacts
+CC       with JAKMIP1. {ECO:0000269|PubMed:10075644,
+CC       ECO:0000269|PubMed:10924501, ECO:0000269|PubMed:14718537,
+CC       ECO:0000269|PubMed:9872744}.
+CC   -!- INTERACTION:
+CC       O88871:Gabbr2; NbExp=8; IntAct=EBI-7090268, EBI-7090239;
+CC   -!- SUBCELLULAR LOCATION: Cell membrane; Multi-pass membrane protein.
+CC       Cell junction, synapse, postsynaptic cell membrane; Multi-pass
+CC       membrane protein. Cell projection, dendrite. Note=Coexpression of
+CC       GABBR1 and GABBR2 is required for GABBR1 maturation and transport
+CC       to the plasma membrane. Colocalizes with ATF4 in hippocampal
+CC       neuron dendritic membranes.
+CC   -!- ALTERNATIVE PRODUCTS:
+CC       Event=Alternative splicing; Named isoforms=5;
+CC       Name=1E; Synonyms=1C;
+CC         IsoId=Q9Z0U4-1; Sequence=Displayed;
+CC       Name=1A;
+CC         IsoId=Q9Z0U4-2; Sequence=VSP_002045;
+CC       Name=1B;
+CC         IsoId=Q9Z0U4-3; Sequence=VSP_002044, VSP_002045;
+CC       Name=1C;
+CC         IsoId=Q9Z0U4-4; Sequence=VSP_002044;
+CC       Name=1D;
+CC         IsoId=Q9Z0U4-5; Sequence=VSP_002044, VSP_002045, VSP_002046;
+CC   -!- TISSUE SPECIFICITY: Isoform 1A, isoform 1B and isoform 1C are
+CC       expressed in testis, stomach, spinal cord and brain including
+CC       cerebral cortical layers, pyramidal cell layers of the
+CC       hippocampus, granular cell layers of the dentate gyrus, basal
+CC       ganglia, cerebellum (predominantly in Purkinje cells followed by
+CC       granular layer). Isoform 1B is also expressed in kidney and liver.
+CC       Isoform 1D is expressed in forebrain, cerebellum, eye, kidney, and
+CC       urinary bladder. {ECO:0000269|PubMed:10658574,
+CC       ECO:0000269|PubMed:9069281, ECO:0000269|PubMed:9875211}.
+CC   -!- DOMAIN: Alpha-helical parts of the C-terminal intracellular region
+CC       mediate heterodimeric interaction with GABBR2. The linker region
+CC       between the transmembrane domain 3 (TM3) and the transmembrane
+CC       domain 4 (TM4) probably plays a role in the specificity for G-
+CC       protein coupling.
+CC   -!- SIMILARITY: Belongs to the G-protein coupled receptor 3 family.
+CC       GABA-B receptor subfamily. {ECO:0000305}.
+CC   -!- SIMILARITY: Contains 2 Sushi (CCP/SCR) domains.
+CC       {ECO:0000255|PROSITE-ProRule:PRU00302}.
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see http://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution-NoDerivs License
+CC   -----------------------------------------------------------------------
+DR   EMBL; Y10369; CAA71398.1; -; mRNA.
+DR   EMBL; Y10370; CAA71399.1; -; mRNA.
+DR   EMBL; AB016160; BAA34708.1; -; mRNA.
+DR   EMBL; AB016161; BAA34709.1; -; mRNA.
+DR   EMBL; AF110797; AAD19656.1; -; Genomic_DNA.
+DR   EMBL; AF110796; AAD19656.1; JOINED; Genomic_DNA.
+DR   EMBL; AF110797; AAD19657.1; -; Genomic_DNA.
+DR   EMBL; AF110796; AAD19657.1; JOINED; Genomic_DNA.
+DR   EMBL; AF110797; AAD19658.1; -; Genomic_DNA.
+DR   EMBL; AF110796; AAD19658.1; JOINED; Genomic_DNA.
+DR   EMBL; AF110797; AAD19659.1; -; Genomic_DNA.
+DR   EMBL; AF110796; AAD19659.1; JOINED; Genomic_DNA.
+DR   RefSeq; NP_112290.2; NM_031028.3. [Q9Z0U4-2]
+DR   RefSeq; XP_006255941.1; XM_006255879.2. [Q9Z0U4-1]
+DR   UniGene; Rn.30059; -.
+DR   PDB; 1SRZ; NMR; -; A=96-159.
+DR   PDB; 1SS2; NMR; -; A=96-159.
+DR   PDBsum; 1SRZ; -.
+DR   PDBsum; 1SS2; -.
+DR   DisProt; DP00463; -.
+DR   ProteinModelPortal; Q9Z0U4; -.
+DR   SMR; Q9Z0U4; 96-159.
+DR   BioGrid; 249557; 2.
+DR   IntAct; Q9Z0U4; 1.
+DR   STRING; 10116.ENSRNOP00000047788; -.
+DR   BindingDB; Q9Z0U4; -.
+DR   ChEMBL; CHEMBL2111474; -.
+DR   GuidetoPHARMACOLOGY; 240; -.
+DR   iPTMnet; Q9Z0U4; -.
+DR   PhosphoSite; Q9Z0U4; -.
+DR   UniCarbKB; Q9Z0U4; -.
+DR   PaxDb; Q9Z0U4; -.
+DR   PRIDE; Q9Z0U4; -.
+DR   Ensembl; ENSRNOT00000051634; ENSRNOP00000047498; ENSRNOG00000000774. [Q9Z0U4-2]
+DR   Ensembl; ENSRNOT00000082545; ENSRNOP00000075630; ENSRNOG00000000774. [Q9Z0U4-5]
+DR   Ensembl; ENSRNOT00000084582; ENSRNOP00000075610; ENSRNOG00000000774. [Q9Z0U4-3]
+DR   Ensembl; ENSRNOT00000085050; ENSRNOP00000075181; ENSRNOG00000000774. [Q9Z0U4-4]
+DR   Ensembl; ENSRNOT00000088396; ENSRNOP00000072226; ENSRNOG00000000774. [Q9Z0U4-3]
+DR   GeneID; 81657; -.
+DR   KEGG; rno:81657; -.
+DR   UCSC; RGD:621537; rat. [Q9Z0U4-1]
+DR   CTD; 2550; -.
+DR   RGD; 621537; Gabbr1.
+DR   eggNOG; KOG1055; Eukaryota.
+DR   eggNOG; ENOG410XNN1; LUCA.
+DR   GeneTree; ENSGT00530000063129; -.
+DR   HOGENOM; HOG000016575; -.
+DR   HOVERGEN; HBG051688; -.
+DR   InParanoid; Q9Z0U4; -.
+DR   KO; K04615; -.
+DR   PhylomeDB; Q9Z0U4; -.
+DR   TreeFam; TF313965; -.
+DR   EvolutionaryTrace; Q9Z0U4; -.
+DR   NextBio; 615214; -.
+DR   PRO; PR:Q9Z0U4; -.
+DR   Proteomes; UP000002494; Chromosome 20.
+DR   ExpressionAtlas; Q9Z0U4; baseline and differential.
+DR   GO; GO:0030673; C:axolemma; IDA:RGD.
+DR   GO; GO:0030054; C:cell junction; IEA:UniProtKB-KW.
+DR   GO; GO:0043198; C:dendritic shaft; IDA:RGD.
+DR   GO; GO:0043197; C:dendritic spine; IDA:RGD.
+DR   GO; GO:0005789; C:endoplasmic reticulum membrane; IDA:RGD.
+DR   GO; GO:0005615; C:extracellular space; IDA:RGD.
+DR   GO; GO:0038039; C:G-protein coupled receptor heterodimeric complex; ISS:UniProtKB.
+DR   GO; GO:0005887; C:integral component of plasma membrane; ISS:UniProtKB.
+DR   GO; GO:0043231; C:intracellular membrane-bounded organelle; IDA:RGD.
+DR   GO; GO:0045121; C:membrane raft; IDA:RGD.
+DR   GO; GO:0031966; C:mitochondrial membrane; IDA:RGD.
+DR   GO; GO:0043005; C:neuron projection; IDA:RGD.
+DR   GO; GO:0043025; C:neuronal cell body; IDA:RGD.
+DR   GO; GO:0045211; C:postsynaptic membrane; IEA:UniProtKB-SubCell.
+DR   GO; GO:0008021; C:synaptic vesicle; IDA:RGD.
+DR   GO; GO:0004965; F:G-protein coupled GABA receptor activity; IDA:RGD.
+DR   GO; GO:0008134; F:transcription factor binding; IPI:RGD.
+DR   GO; GO:0007193; P:adenylate cyclase-inhibiting G-protein coupled receptor signaling pathway; ISS:UniProtKB.
+DR   GO; GO:0007214; P:gamma-aminobutyric acid signaling pathway; ISS:UniProtKB.
+DR   GO; GO:0007194; P:negative regulation of adenylate cyclase activity; IDA:MGI.
+DR   GO; GO:0008285; P:negative regulation of cell proliferation; IMP:RGD.
+DR   GO; GO:0033602; P:negative regulation of dopamine secretion; IDA:RGD.
+DR   GO; GO:0032811; P:negative regulation of epinephrine secretion; IMP:RGD.
+DR   GO; GO:0014053; P:negative regulation of gamma-aminobutyric acid secretion; IMP:RGD.
+DR   GO; GO:0050805; P:negative regulation of synaptic transmission; IDA:RGD.
+DR   GO; GO:0001649; P:osteoblast differentiation; IMP:RGD.
+DR   GO; GO:0014049; P:positive regulation of glutamate secretion; IMP:RGD.
+DR   GO; GO:0060124; P:positive regulation of growth hormone secretion; IMP:RGD.
+DR   GO; GO:0030817; P:regulation of cAMP biosynthetic process; IDA:RGD.
+DR   GO; GO:0014048; P:regulation of glutamate secretion; IDA:RGD.
+DR   GO; GO:0045471; P:response to ethanol; IEP:RGD.
+DR   GO; GO:0035094; P:response to nicotine; IEP:RGD.
+DR   InterPro; IPR001828; ANF_lig-bd_rcpt.
+DR   InterPro; IPR002455; GPCR3_GABA-B.
+DR   InterPro; IPR017978; GPCR_3_C.
+DR   InterPro; IPR002456; GPCR_3_GABA_rcpt_B1.
+DR   InterPro; IPR028082; Peripla_BP_I.
+DR   InterPro; IPR000436; Sushi_SCR_CCP_dom.
+DR   PANTHER; PTHR10519; PTHR10519; 2.
+DR   PANTHER; PTHR10519:SF42; PTHR10519:SF42; 2.
+DR   Pfam; PF00003; 7tm_3; 1.
+DR   Pfam; PF01094; ANF_receptor; 1.
+DR   Pfam; PF00084; Sushi; 1.
+DR   PRINTS; PR01177; GABAB1RECPTR.
+DR   SMART; SM00032; CCP; 2.
+DR   SUPFAM; SSF53822; SSF53822; 1.
+DR   SUPFAM; SSF57535; SSF57535; 2.
+DR   PROSITE; PS50259; G_PROTEIN_RECEP_F3_4; 1.
+DR   PROSITE; PS50923; SUSHI; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Alternative splicing; Cell junction; Cell membrane;
+KW   Cell projection; Coiled coil; Complete proteome; Disulfide bond;
+KW   G-protein coupled receptor; Glycoprotein; Membrane; Phosphoprotein;
+KW   Postsynaptic cell membrane; Receptor; Reference proteome; Repeat;
+KW   Signal; Synapse; Transducer; Transmembrane; Transmembrane helix.
+FT   SIGNAL        1     16       {ECO:0000255}.
+FT   CHAIN        17    991       Gamma-aminobutyric acid type B receptor
+FT                                subunit 1.
+FT                                /FTId=PRO_0000012951.
+FT   TOPO_DOM     17    590       Extracellular. {ECO:0000255}.
+FT   TRANSMEM    591    611       Helical; Name=1. {ECO:0000255}.
+FT   TOPO_DOM    612    630       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM    631    651       Helical; Name=2. {ECO:0000255}.
+FT   TOPO_DOM    652    666       Extracellular. {ECO:0000255}.
+FT   TRANSMEM    667    687       Helical; Name=3. {ECO:0000255}.
+FT   TOPO_DOM    688    709       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM    710    730       Helical; Name=4. {ECO:0000255}.
+FT   TOPO_DOM    731    797       Extracellular. {ECO:0000255}.
+FT   TRANSMEM    798    818       Helical; Name=5. {ECO:0000255}.
+FT   TOPO_DOM    819    834       Cytoplasmic. {ECO:0000255}.
+FT   TRANSMEM    835    855       Helical; Name=6. {ECO:0000255}.
+FT   TOPO_DOM    856    863       Extracellular. {ECO:0000255}.
+FT   TRANSMEM    864    884       Helical; Name=7. {ECO:0000255}.
+FT   TOPO_DOM    885    991       Cytoplasmic. {ECO:0000255}.
+FT   DOMAIN       29     95       Sushi 1. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00302}.
+FT   DOMAIN       97    158       Sushi 2. {ECO:0000255|PROSITE-
+FT                                ProRule:PRU00302}.
+FT   REGION      918    946       Interaction with ATF4.
+FT   COILED      901    955       {ECO:0000255}.
+FT   BINDING     246    246       Agonist. {ECO:0000250}.
+FT   BINDING     269    269       Agonist. {ECO:0000250}.
+FT   BINDING     286    286       Agonist. {ECO:0000250}.
+FT   BINDING     366    366       Agonist. {ECO:0000250}.
+FT   BINDING     394    394       Agonist. {ECO:0000250}.
+FT   BINDING     465    465       Agonist. {ECO:0000250}.
+FT   MOD_RES     903    903       Phosphothreonine.
+FT                                {ECO:0000250|UniProtKB:Q9WV18}.
+FT   MOD_RES     960    960       Phosphothreonine.
+FT                                {ECO:0000244|PubMed:22673903}.
+FT   CARBOHYD     23     23       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD     83     83       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    408    408       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    439    439       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    481    481       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    501    501       N-linked (GlcNAc...). {ECO:0000255}.
+FT   CARBOHYD    513    513       N-linked (GlcNAc...). {ECO:0000255}.
+FT   DISULFID     99    144       {ECO:0000255|PROSITE-ProRule:PRU00302,
+FT                                ECO:0000269|PubMed:15304491}.
+FT   DISULFID    130    156       {ECO:0000255|PROSITE-ProRule:PRU00302,
+FT                                ECO:0000269|PubMed:15304491}.
+FT   DISULFID    219    245       {ECO:0000255|PROSITE-ProRule:PRU00302}.
+FT   DISULFID    375    409       {ECO:0000255|PROSITE-ProRule:PRU00302}.
+FT   VAR_SEQ       1    163       MLLLLLVPLFLRPLGAGGAQTPNATSEGCQIIHPPWEGGIR
+FT                                YRGLTRDQVKAINFLPVDYEIEYVCRGEREVVGPKVRKCLA
+FT                                NGSWTDMDTPSRCVRICSKSYLTLENGKVFLTGGDLPALDG
+FT                                ARVEFRCDPDFHLVGSSRSVCSQGQWSTPKPHCQVNRTPH
+FT                                -> MGPGGPCTPVGWPLPLLLVMAAGVAPVWASHSPHLPRP
+FT                                HPRVPPHPS (in isoform 1B, isoform 1C and
+FT                                isoform 1D). {ECO:0000303|PubMed:9069281,
+FT                                ECO:0000303|PubMed:9875211}.
+FT                                /FTId=VSP_002044.
+FT   VAR_SEQ     771    801       Missing (in isoform 1A, isoform 1B and
+FT                                isoform 1D).
+FT                                {ECO:0000303|PubMed:10075644,
+FT                                ECO:0000303|PubMed:9069281,
+FT                                ECO:0000303|PubMed:9875211}.
+FT                                /FTId=VSP_002045.
+FT   VAR_SEQ     935    991       KEERVSELRHQLQSRQQLRSRRHPPTPPDPSGGLPRGPSEP
+FT                                PDRLSCDGSRVHLLYK -> VCGDKQPGPPVSEGGLPVVGP
+FT                                SIEV (in isoform 1D).
+FT                                {ECO:0000303|PubMed:9875211}.
+FT                                /FTId=VSP_002046.
+FT   MUTAGEN     247    247       S->A: No change in the affinity for GABA.
+FT                                {ECO:0000269|PubMed:10692480}.
+FT   MUTAGEN     268    268       S->A: No change in the affinity for GABA.
+FT                                {ECO:0000269|PubMed:10692480}.
+FT   MUTAGEN     269    269       S->A: Decrease in the affinity for GABA.
+FT                                {ECO:0000269|PubMed:10692480}.
+FT   STRAND       96     98       {ECO:0000244|PDB:1SRZ}.
+FT   HELIX       101    104       {ECO:0000244|PDB:1SRZ}.
+FT   STRAND      109    112       {ECO:0000244|PDB:1SRZ}.
+FT   TURN        120    123       {ECO:0000244|PDB:1SRZ}.
+FT   STRAND      125    130       {ECO:0000244|PDB:1SRZ}.
+FT   STRAND      134    136       {ECO:0000244|PDB:1SRZ}.
+FT   STRAND      141    145       {ECO:0000244|PDB:1SRZ}.
+FT   STRAND      148    151       {ECO:0000244|PDB:1SRZ}.
+FT   STRAND      156    158       {ECO:0000244|PDB:1SRZ}.
+SQ   SEQUENCE   991 AA;  111534 MW;  012CD293D4B444A2 CRC64;
+     MLLLLLVPLF LRPLGAGGAQ TPNATSEGCQ IIHPPWEGGI RYRGLTRDQV KAINFLPVDY
+     EIEYVCRGER EVVGPKVRKC LANGSWTDMD TPSRCVRICS KSYLTLENGK VFLTGGDLPA
+     LDGARVEFRC DPDFHLVGSS RSVCSQGQWS TPKPHCQVNR TPHSERRAVY IGALFPMSGG
+     WPGGQACQPA VEMALEDVNS RRDILPDYEL KLIHHDSKCD PGQATKYLYE LLYNDPIKII
+     LMPGCSSVST LVAEAARMWN LIVLSYGSSS PALSNRQRFP TFFRTHPSAT LHNPTRVKLF
+     EKWGWKKIAT IQQTTEVFTS TLDDLEERVK EAGIEITFRQ SFFSDPAVPV KNLKRQDARI
+     IVGLFYETEA RKVFCEVYKE RLFGKKYVWF LIGWYADNWF KTYDPSINCT VEEMTEAVEG
+     HITTEIVMLN PANTRSISNM TSQEFVEKLT KRLKRHPEET GGFQEAPLAY DAIWALALAL
+     NKTSGGGGRS GVRLEDFNYN NQTITDQIYR AMNSSSFEGV SGHVVFDASG SRMAWTLIEQ
+     LQGGSYKKIG YYDSTKDDLS WSKTDKWIGG SPPADQTLVI KTFRFLSQKL FISVSVLSSL
+     GIVLAVVCLS FNIYNSHVRY IQNSQPNLNN LTAVGCSLAL AAVFPLGLDG YHIGRSQFPF
+     VCQARLWLLG LGFSLGYGSM FTKIWWVHTV FTKKEEKKEW RKTLEPWKLY ATVGLLVGMD
+     VLTLAIWQIV DPLHRTIETF AKEEPKEDID VSILPQLEHC SSKKMNTWLG ELWSFAVSSD
+     VQRRATVGGD SPICVWPAPE SIFYGYKGLL LLLGIFLAYE TKSVSTEKIN DHRAVGMAIY
+     NVAVLCLITA PVTMILSSQQ DAAFAFASLA IVFSSYITLV VLFVPKMRRL ITRGEWQSET
+     QDTMKTGSST NNNEEEKSRL LEKENRELEK IIAEKEERVS ELRHQLQSRQ QLRSRRHPPT
+     PPDPSGGLPR GPSEPPDRLS CDGSRVHLLY K
+//
