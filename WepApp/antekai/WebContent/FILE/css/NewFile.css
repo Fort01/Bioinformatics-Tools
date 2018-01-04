@@ -1,0 +1,38 @@
+@CHARSET "UTF-8";
+ 
+ 
+  #sidebar {float: right;
+                border-width: thick;
+                border-color: black;}
+			 
+       h1 { text-align: center;
+            background: rgba(68,183,221,1);}
+            
+       h4,h3{color: white;}
+
+       body { background-image: url("../images/wall.jpg");}
+	
+       #right {float: right;
+               background: rgba(241,153,86,0.9);
+               border-style: solid;
+               line-height: 3.8;
+               border-width: 4px;
+               text-align: inherit;
+               margin-left: auto;
+               margin-right: auto;
+               width: 10em
+             }
+                
+        
+                
+       ul{list-style-type: none;}
+
+	   .box {float: left;
+	         background: rgba(255,0,0,0.5);}
+	    #stoixeia { float: right;}
+	    
+	    #submit{ float: left;}
+	    img{
+	    float:none;
+	     height: 28%;
+         width: 28%;}

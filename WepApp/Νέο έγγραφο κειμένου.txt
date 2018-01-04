@@ -1,0 +1,3 @@
+http://stackoverflow.com/questions/16627910/how-to-code-a-very-simple-login-system-with-java
+
+https://managewp.com/how-to-access-a-local-website-from-internet-with-port-forwarding

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+
+	<style>
+
+	              
+   </style>
+		<link rel="stylesheet" type="text/css" href="css/NewFile.css"/>
+    	     
+	 <title>home_website</title>
+	    </head>
+
+        <body>	
+			<p> <h1> Lig-<em>and</em>-base </h1> </p>
+				    
+		   <img src="images/li.png"  alt="ligand" align="center" >
+		    
+		    <div id="right">
+	   	 	 <aside id="sidebar">
+		     <h3>
+		      <ul>
+		        <li><a href="home_website.html"><strong>Home</strong></a></li>
+		        <li>
+		        	<form method="get" action="../MyFirstServlet"> <input type="submit" value="All Ligands"> </form>
+		        </li> <!--****<a href="AllLigands.java" ><strong>All Ligands</strong></a>*********************************************-->
+		        <li><a href="#"><strong>All Receptors</strong></a></li>
+		        <li><a href="about.html"><strong>About</strong></a></li>
+		     </ul>
+		     </h3> 
+	     	</aside>
+	     	</div>
+  			
+  					
+  			<div class= "box red">
+  			<h4>
+		  	<form id="form1" method="get" action="database.jsp">
+			  <fieldset>
+			  	   </br>
+			  	   
+			   <legend id="l1"><h3>Ligands</h3></legend>
+			  	<table id="first box">
+			     <tr>
+				  <td align="left"><label for="lig"> Ligand name: </label></td>
+				  <td align="right"><input id="lig" name="Ligand name" type="text" maxlength="200" size="30"/></td>
+				 </tr>	
+				 
+				 </br>
+				 
+				 <tr>	
+				 <td align="left"> <label for="smile"> Ligands smile:  </label> </td>
+				 <td align="right">	<input id="smile" name="smile" type="text" maxlength="200" size="30"/></td>
+				</tr>
+				</table>
+					
+				</fieldset>
+				
+				<fieldset>
+				   </br>
+				  <legend id="l1"><h3>Receptors</h3></legend>
+				  <table id="second box">
+			     <tr>
+				  <td align="left"> 	<label for="rec"> Receptor name:  </label></td>
+				  <td align="right">	<input id="rec" name="Receptor name" type="text" maxlength="50" size="20"/> </td>
+				 </tr> 
+				   </br>
+				 <tr>
+				 <td align="left">	<label for="unigene"> Unigene:  </label></td>
+				 <td align="right">	<input id="unigene" name="unigene" type="text" maxlength="50" size="20"/> </td>	
+				 </tr> 
+				 </table>
+				</fieldset>
+				
+				<fieldset>
+				    </br>
+				<legend id="l1"><h3> Ki</h3>  </legend>
+				<table id="third box">
+				<tr>
+				  <td align="left"> <label for="Ki"> Give max Ki: </label> </td> 
+				   <td align="right"><input id="Ki" name="Ki" name="Ki" type="number" maxlength="5" size="10">[nM]</td>
+				   </br>
+				</tr>
+				
+				<tr>
+				  <td align="left">   <label for="Ki"> Give min Ki: </label></td>
+			     <td align="right"> <input id="Ki" name="Ki" name="Ki" type="number" maxlength="5" size="10"> [nM] </td>
+				</tr>
+				</fieldset></h4>
+		  	</table>
+			    <input id="submit" type="submit" value="submit">			 
+		       </form>
+   		     </div>
+   	                </br> </br> </br> </br> </br> </br> </br> </br> </br> </br> </br>
+   	                </br> </br> </br> </br>  </br></br> </br>
+   	           
+   	       <div id="stoixeia">        
+       	 <form id="form2" method="get" action="log_in.jsp">  	<input type="submit" value="log in">
+    	 <input id="name" name="name" placeholder="name" type="text" maxlength="10" size="10" >
+	   	<input id="code" name="code" placeholder="password" type="password" maxlength="10" size="10">
+	  	</form>
+	   	 
+	   	
+         <form id="form3" method="get" action="Sign_up.jsp"> <input type="submit" value="Sign up">	</form>
+	  		 </div>
+	  	 			
+	  	 			
+   </body>
+</html>
