@@ -4,7 +4,7 @@ run antekai\WebContent\FILE\homepage.jsp
 
 browse database by navigate the website
 
-database out of date.
+
 
 
 
